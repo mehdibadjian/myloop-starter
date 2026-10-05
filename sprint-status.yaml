@@ -1,0 +1,16 @@
+# Sprint Status Ledger (myloop-starter)
+# Tracks epic and story progression across the development lifecycle.
+
+project: myloop-starter
+tracking_system: file-system
+story_location: docs/stories
+
+development_status:
+  epic-1: in-progress
+  1-1-initial-setup: ready-for-dev
+  epic-1-retrospective: optional
+
+execution_tiers:
+  1-1-initial-setup: flash
+
+action_items: []
